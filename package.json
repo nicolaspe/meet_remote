@@ -1,0 +1,19 @@
+{
+  "name": "meet_remote",
+  "version": "0.0.1",
+  "description": "Part of the \"m e e t _\" exploration. By Roland Arnodt and Nicolás Escarpentier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaspe/meet_remote.git"
+  },
+  "author": "Nicolas Escarpentier & Roland Arnoldt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolaspe/meet_remote/issues"
+  },
+  "homepage": "https://github.com/nicolaspe/meet_remote#readme"
+}
